@@ -27,7 +27,7 @@ Projetado para migrar um contêiner de um servidor Proxmox para outro, mesmo que
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/gndcyber/scripts-proxmox.git
     cd scripts-proxmox
     ```
 
